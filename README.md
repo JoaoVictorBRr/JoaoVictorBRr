@@ -9,3 +9,5 @@ Tenho forte envolvimento com arquitetura de software, aplicando conceitos como D
 Um dos projetos mais desafiadores da minha jornada foi o desenvolvimento de um sistema de atendimento com IA para clínicas, onde atuei de forma independente em grande parte da construção e também na organização técnica do time, estruturando fluxos de trabalho e contribuindo para a entrega do produto de forma mais eficiente.
 
 Fora do ambiente profissional, gosto de treinar, jogar games e aproveitar momentos com amigos, principalmente em um bom churrasco. Acredito que esses momentos também fazem parte do equilíbrio necessário para manter a consistência e o foco na evolução profissional.
+
+→ E-mail: jvictor.oliv2000@gmail.com
